@@ -1,0 +1,47 @@
+Please baca dengan Seksama
+
+Link sample web 
+http://tes.educatecode.com/
+
+Link untuk admin
+http://tes.educatecode.com/admin/admin.php
+
+fasilitas
+input siswa
+input jurusan
+input kelas
+input guru
+input jadwal
+input informasi
+
+untuk login
+
+user : admin
+pasw : qwerty
+
+
+link login untuk guru 
+http://tes.educatecode.com/guru/
+
+
+fasilitas
+input soal
+input jawaban
+view laporan nilai
+
+untuk login  
+user : 141001
+pass : qwerty
+
+
+
+link login untuk siswa
+http://tes.educatecode.com/siswa/
+
+fasilitas
+isi soal jawaban
+view biodata guru
+
+untuk login
+user : 9951909839
+pasww : qwerty
